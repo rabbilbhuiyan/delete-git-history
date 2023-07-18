@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+1945e92356d578679230b64d6fb1db6945d596a5 refs/heads/fetch-dashboard-list
+9b929758fdd0492c317ed0f643b21b209fc8cdce refs/heads/master
+bc6d0a6bac0a8eb30e83511cb8d2e21b8a26d294 refs/pull/5405/merge
+2f2fa077551b1fe05aa9abebddb4c4cc20cda036 refs/remotes/origin/HEAD
+2f2fa077551b1fe05aa9abebddb4c4cc20cda036 refs/remotes/origin/master
